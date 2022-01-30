@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>SubDialog.qml</file>
+        <file>SubDialog2.qml</file>
+        <file>Image1.qml</file>
+        <file>images/185-5-e1575295619641-400x201.png</file>
+        <file>images/35673322.2280836.jpg</file>
+        <file>images/EkiYfS4VMAEIDI5.jpg</file>
+		<file>images/2cae7469-400x280.jpg</file>
+    </qresource>
+</RCC>
